@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Aaron
 
-<!--
-**AaronConnolly/AaronConnolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a passion for AI, React, and building useful stuff.
 
-Here are some ideas to get you started:
+## 🚀 Languages & Tools
+- 🟦 JavaScript (React, Vite)
+- 🐍 Python (ML, AI, FastAPI)
+- 🐘 PostgreSQL
+- 🐳 Docker (learning)
+- ✨ Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Portfolio: [aaronconnolly.dev](https://aaronconnolly.dev)
+- Email: your.email@gmail.com
+- LinkedIn: [linkedin.com/in/aaronconnolly](https://linkedin.com/in/aaronconnolly)
